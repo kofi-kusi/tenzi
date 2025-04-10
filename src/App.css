@@ -53,3 +53,8 @@ button.roll {
     font-weight: 600;
     margin-top: 30px;
 }
+
+.game-won {
+    color: goldenrod;
+    font-weight: bold;
+}
