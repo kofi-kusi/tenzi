@@ -27,6 +27,7 @@ button {
     border-radius: 10px;
     font-size: 1.75rem;
     font-weight: 600;
+    justify-content: center;
 }
 
 h1 {
